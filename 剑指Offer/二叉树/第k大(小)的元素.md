@@ -31,6 +31,10 @@ var kthLargest = function(root, k) {
 
 ### [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
 
+> 牛客中，返回整个节点
+>
+> 力扣中，返回节点值
+
 利用二叉搜索树特性，中序遍历序列的第k位即第k小元素
 
 ```javascript
